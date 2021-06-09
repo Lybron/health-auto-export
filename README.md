@@ -1,6 +1,8 @@
 # [Health Auto Export](https://apple.co/3iqbU2d)
 
-## Take Ownership of Your Data
+## Take Ownership of Your Health Data
+
+<img src="./assets/autoexport.gif" height="300">
 
 Health Auto Export supports over 100 health data points and more than 70 workout types. 
 
