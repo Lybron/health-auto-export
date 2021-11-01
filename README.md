@@ -78,5 +78,5 @@ Health Auto Export allows you to export Health data with the following aggregati
 - Months
 - Years
 
-See the full list of supported metrics and workout metadata [here](https://github.com/Lybron/health-auto-export/wiki/Supported_Data).
+See the full list of supported metrics and workout metadata [here](https://github.com/Lybron/health-auto-export/wiki/Supported-Data).
 
