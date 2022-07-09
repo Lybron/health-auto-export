@@ -2,9 +2,9 @@
 
 ## Take Ownership of Your Health Data
 
-[API Export Documentation](https://github.com/Lybron/health-auto-export/wiki)
+[REST API Export Documentation](https://github.com/Lybron/health-auto-export/wiki)
 
-<img src="./assets/autoexport.gif" height="300">
+<img src="./assets/autoexport.gif" width="250">
 
 Health Auto Export supports over 100 health data points and more than 70 workout types. 
 
