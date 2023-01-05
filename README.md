@@ -29,7 +29,7 @@ Automatically export detailed backups of your Health and Workout data in JSON or
 **AUTOMATIONS** [(Documentation)](https://github.com/Lybron/health-auto-export/wiki)
 - Configure multiple automations that will export updated data in the background occassionally
 - Export to any of the following destinations: REST API, Dropbox, Home Assistant, or MQTT brokers
-- Acticity Logs to help you keep track of when automations run and any errors encountered
+- Activity Logs to help you keep track of when automations run and any errors encountered
 - Data can be exported as JSON or CSV
 
 **AUTOMATED BACKUPS**
