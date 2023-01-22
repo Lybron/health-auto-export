@@ -4,7 +4,14 @@
 
 [REST API Export Documentation](https://github.com/Lybron/health-auto-export/wiki)
 
-<img src="./assets/autoexport.gif" width="250">
+<p float="left">
+<img src="https://user-images.githubusercontent.com/1955361/213919964-5b68b780-e7de-4323-b772-3a30bf95e399.png" width="300">
+<img src="https://user-images.githubusercontent.com/1955361/213919864-40d00bec-3fb8-4932-8f9c-b49803a64dd4.png" width="300">
+<img src="https://user-images.githubusercontent.com/1955361/213920132-1850ada2-9f21-4045-9f99-47e2dbae99df.png" width="300">
+<img src="https://user-images.githubusercontent.com/1955361/213920136-f913abd6-af02-4d0c-90e9-9b4da77f8e1e.png" width="300">
+<img src="https://user-images.githubusercontent.com/1955361/213920137-cae9b404-9b03-4a6c-8125-ffd2cd44e8c6.png" width="300">
+
+</p>
 
 Health Auto Export supports over 100 health data points and more than 70 workout types. 
 
