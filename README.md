@@ -88,3 +88,13 @@ Health Auto Export allows you to export Health data with the following aggregati
 
 See the full list of supported metrics and workout metadata [here](https://github.com/Lybron/health-auto-export/wiki/Supported-Data).
 
+## Community
+
+- Join the converstation around Health Auto Export.
+- Get tips, discuss features and improvements
+- Get answers to frequently asked questions
+
+[Join Discord](https://discord.gg/PY7urEVDnj)
+
+[Join Reddit](https://www.reddit.com/r/healthautoexport/)
+
