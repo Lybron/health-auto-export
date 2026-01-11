@@ -5,12 +5,12 @@
 ### Screenshots
 
 <p float="left">
-<img src="https://user-images.githubusercontent.com/1955361/213919964-5b68b780-e7de-4323-b772-3a30bf95e399.png" width="300">
-<img src="https://user-images.githubusercontent.com/1955361/213919864-40d00bec-3fb8-4932-8f9c-b49803a64dd4.png" width="300">
-<img src="https://user-images.githubusercontent.com/1955361/213920132-1850ada2-9f21-4045-9f99-47e2dbae99df.png" width="300">
-<img src="https://user-images.githubusercontent.com/1955361/213920136-f913abd6-af02-4d0c-90e9-9b4da77f8e1e.png" width="300">
-<img src="https://user-images.githubusercontent.com/1955361/213920137-cae9b404-9b03-4a6c-8125-ffd2cd44e8c6.png" width="300">
-
+<img width="300" alt="manual_export" src="https://github.com/user-attachments/assets/73051020-c809-4ab8-b5f2-94c9fcb9c572" />
+<img width="300" alt="automations" src="https://github.com/user-attachments/assets/afe4d0a4-8e14-47bd-b0f7-460c98d42e58" />
+<img width="300" alt="server" src="https://github.com/user-attachments/assets/5a3d0d10-f721-46f3-854e-14fda043621c" />
+<img width="300" alt="web_app" src="https://github.com/user-attachments/assets/51cd7007-988a-4523-8138-17cac23fac64" />
+<img width="300" alt="widgets" src="https://github.com/user-attachments/assets/64d27690-e69a-4a8d-9fd5-3e1961269bd9" />
+<img width="300" alt="shortcuts" src="https://github.com/user-attachments/assets/117489c4-5f9b-423b-9b68-7e7ea8a33e7e" />
 </p>
 
 ### Overview
