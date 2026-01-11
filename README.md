@@ -2,7 +2,93 @@
 
 ## Take Ownership of Your Health Data
 
+### Screenshots
+
+<p float="left">
+<img src="https://user-images.githubusercontent.com/1955361/213919964-5b68b780-e7de-4323-b772-3a30bf95e399.png" width="300">
+<img src="https://user-images.githubusercontent.com/1955361/213919864-40d00bec-3fb8-4932-8f9c-b49803a64dd4.png" width="300">
+<img src="https://user-images.githubusercontent.com/1955361/213920132-1850ada2-9f21-4045-9f99-47e2dbae99df.png" width="300">
+<img src="https://user-images.githubusercontent.com/1955361/213920136-f913abd6-af02-4d0c-90e9-9b4da77f8e1e.png" width="300">
+<img src="https://user-images.githubusercontent.com/1955361/213920137-cae9b404-9b03-4a6c-8125-ffd2cd44e8c6.png" width="300">
+
+</p>
+
 ### Overview
+
+Take control of your health data — export, analyze, and back it up securely.
+
+Export 150+ health and fitness metrics from iPhone in CSV, JSON, or GPX format. Perfect for data backup, personal insights, or analysis with generative AI tools. Query data directly over the network, or automate exporting with iCloud Drive, Google Drive, Dropbox, REST APIs, Home Assistant, MQTT, and iOS Calendar. Sync to Mac or create your own dashboards.
+
+### Highlights:
+
+Health Auto Export supports several metrics and data types categorized into:
+
+- Health Metrics (steps, heart rate, sleep phases, blood pressure, etc.)
+- Workouts + Routes (running, cycling, swimming, hiking, etc.)
+- State of Mind
+- Menstrual Cycle Tracking
+- ECG
+- Heart Rate Notifications
+
+#### Automations & Integrations:
+
+- Built-in TCP Server. Query health data directly from iPhone
+- Export to iCloud Drive, Google Drive, Dropbox
+- Send data to REST APIs, MQTT, Home Assistant
+- Log data as events in Calendar
+- Automate actions with Shortcuts
+- Build your own applications and integrations that leverage health data
+- View the project Wiki for documentation of [JSON data format](https://github.com/Lybron/health-auto-export/wiki/API-Export---JSON-Format)
+
+#### Health data on desktop:
+
+- Sync data to Health Auto Export macOS app
+- View charts and statistics with the configurable dashboard
+- Or use the open-source web app (GitHub) to create your own database and dashboards on macOS/Windows/Linux
+
+#### Health data widgets:
+
+- Add health widgets to your Home Screen on iPhone, iPad, and Mac
+- Track your progress at a glance
+
+#### Privacy:
+
+- 100% private and secure — no account required, third-party sharing.
+- No data collection, no sharing of your information
+- You remain in control of your health data
+
+### PRICING:
+
+Health Auto Export contains in-app purchases. Try all Premium features for seven days, then choose from Free, Basic, and Premium tiers:
+
+#### Free:
+
+- Add health data widgets to your Home Screen.
+- View charts with the statistics dashboard.
+
+#### Basic (one-time purchase):
+
+- Use Quick Export to export health data whenever you need it.
+- Create simple automations with Shortcuts.
+- Export individual metrics with greater detail, such as Sleep Phases, ECG, heart rate notifications, or Blood Glucose metadata.
+- Control data aggregation (seconds → yearly).
+- Export workouts with routes, heart rate, heart rate recovery, and other metadata.
+
+#### Premium (subscription or lifetime purchase):
+
+- Get on with the rest of your day while Health Auto Export syncs your health data in the background.
+- Automatically export data to your own or any of the integrated platforms.
+- Sync to Mac makes your health metrics and workouts available on Mac by syncing from iPhone.
+- Includes all Basic features.
+
+### Supported Data:
+
+- See the full list of supported metrics and workout metadata [here](https://github.com/Lybron/health-auto-export/wiki/Supported-Data).
+
+### Terms
+
+- [Terms of Use](https://healthyapps.dev/terms)
+- [Privacy Policy](https://healthyapps.dev/privacy-policy) 
 
 Health Auto Export enables you to take control of your health by exporting your data.
 
@@ -18,18 +104,19 @@ Health Auto Export enables you to take control of your health by exporting your 
 
 [Download on the App Store](https://apple.co/3iqbU2d)
 
-## Screenshots
+## More Repos
 
-<p float="left">
-<img src="https://user-images.githubusercontent.com/1955361/213919964-5b68b780-e7de-4323-b772-3a30bf95e399.png" width="300">
-<img src="https://user-images.githubusercontent.com/1955361/213919864-40d00bec-3fb8-4932-8f9c-b49803a64dd4.png" width="300">
-<img src="https://user-images.githubusercontent.com/1955361/213920132-1850ada2-9f21-4045-9f99-47e2dbae99df.png" width="300">
-<img src="https://user-images.githubusercontent.com/1955361/213920136-f913abd6-af02-4d0c-90e9-9b4da77f8e1e.png" width="300">
-<img src="https://user-images.githubusercontent.com/1955361/213920137-cae9b404-9b03-4a6c-8125-ffd2cd44e8c6.png" width="300">
+#### [Desktop Web App](https://github.com/HealthyApps/health-auto-export-server)
 
-</p>
+Provides a web interface for viewing Apple Health data via a web interface using Grafana and a Node.js server.
 
-## Projects
+#### [TCP/MCP Server](https://github.com/HealthyApps/health-auto-export-mcp-server)
+
+This project provides examples of how to work with the TCP server in Health Auto Export app for iPhone/iPad.
+
+You can make queries to the server directly over TCP, or the project can be connected to LLMs, such as Claude app for desktop, via MCP.
+
+## Community Projects
 
 Follow [this link](https://github.com/Lybron/health-auto-export/wiki/Projects) to find a list of projects using Health Auto Export in various ways.
 
@@ -42,89 +129,3 @@ Follow [this link](https://github.com/Lybron/health-auto-export/wiki/Projects) t
 [Join Discord Server](https://discord.gg/PY7urEVDnj)
 
 [Join Reddit Community](https://www.reddit.com/r/healthautoexport/)
-
-## Full App Description
-
-Health Auto Export supports over 100 health data metrics and more than 70 workout types.
-
-Health Auto Export is free to try for 7 days, then you can continue to use free features, or choose a suitbale Premium Upgrade that fits your needs.
-
-Automatically export detailed backups of your Health and Workout data in JSON or CSV format using:
-
-- Quick Export: export multiple metrics and workouts at once
-- Export individual metrics with greater detail, such as Afib heartbeat data as JSON, or Blood Glucose metadata, and more
-- Automated backups to iCloud Drive
-- Automated exports to any REST API ([see documentation](https://github.com/Lybron/health-auto-export/wiki)) enabling you to create your own health data database or integrate your data with external services
-- Export to Dropbox, Google Drive, Home Assistant and MQTT brokers
-- Automations with Shortcuts
-- Auto Sync makes your health metrics and workouts available on Mac and iPad by syncing from iPhone
-- Export synced data from health data from Mac and iPad
-
-**PRIVACY**
-
-- You remain 100% in control of your Health data
-- Automated exports are stored securely in iCloud Drive
-- Health Auto Export does not collect or store any of your personal or health information
-- Health Auto Export does not include any third-party SDKs, and does not share data with third parties
-
-**AUTOMATIONS**
-
-- Configure multiple automations that will export updated data in the background occassionally
-- Export to any of the following destinations: REST API, Dropbox, Home Assistant, or MQTT brokers
-- Activity Logs to help you keep track of when automations run and any errors encountered
-- Data can be exported as JSON or CSV
-- View the JSON data [documentation](https://github.com/Lybron/health-auto-export/wiki)
-
-**AUTOMATED BACKUPS**
-
-- Get detailed backups of your Health and Workouts data as JSON or CSV files in iCloud Drive; backup workout routes as GPX files
-- Keep Health Auto Export running in the background and data will be backed up automatically
-- See the sync status of your most recent backups in the app
-
-**AUTO SYNC**
-
-- Apple Health is not available on Mac or iPad but Health Auto Export makes this information available on all your devices—even those without the Health app
-- Health Auto Export for Mac and iPad requires having the app installed on iPhone
-
-**SHORTCUTS**
-
-- Configure your own automated workflows using Shortcuts
-- Create automations to export multiple metrics at once
-- Supports shortcuts for 100+ health metrics and 70+ workout types
-
-**WIDGETS**
-
-- Health widgets on all devices; see your health information iPhone, iPad and Mac
-- The Activity Widget lets you see your Activity Ring progress as well as Total Energy Burn, Step Count and recent Heart Rate readings
-- The Statistics Widget is configurable with whatever Health metric you’d like; you can select up to 6 metrics on the largest widget size
-- The Recent widget will provide up-to-date information on cumulative metrics (e.g. Step Count), or the most recent reading for a sample metric (e.g. Blood Pressure), throughout a given day.
-
-## More Info
-
-**WORKOUTS TO CSV AND GPX FILES**:
-
-Export your workouts and see data including:
-
-- Active and total calorie burn
-- Step count and swimming stroke count
-- Walk/run cadence and swim cadence
-- Average and Max Heart Rate
-- All heart rate data
-- Heart rate recovery
-- Distance (running, cycling, swimming, etc)
-- Workout Route (running, swimming, cycling, hiking)
-- Export workout routes as GPX files
-
-**HEALTH METRICS**:
-
-Health Auto Export allows you to export Health data with the following aggregation intervals:
-
-- Seconds
-- Minutes
-- Hours
-- Days
-- Weeks
-- Months
-- Years
-
-See the full list of supported metrics and workout metadata [here](https://github.com/Lybron/health-auto-export/wiki/Supported-Data).
